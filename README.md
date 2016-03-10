@@ -1,2 +1,2 @@
 # gestioneUtenti
-Un esempio di applicazione web realizzata con Spring Boot, Spring Security e JSF
+Un esempio di web application per la gestione utenti realizzata con Spring Boot, Spring Security, Spring Data JPA e JSF
