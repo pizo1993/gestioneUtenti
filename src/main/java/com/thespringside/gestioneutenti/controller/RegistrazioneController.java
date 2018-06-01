@@ -17,6 +17,7 @@ import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import com.thespringside.gestioneutenti.domain.Utente;
 import com.thespringside.gestioneutenti.service.RegistrazioneService;
 
+
 @ManagedBean(name="registrazioneController")
 @ViewScoped
 public class RegistrazioneController {
